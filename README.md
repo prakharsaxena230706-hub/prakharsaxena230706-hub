@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello! I'm Vidushi (Prakhar Saxena)
+### AI & Web Architect | B.Tech CSE Student
 
-<!--
-**prakharsaxena230706-hub/prakharsaxena230706-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast focused on high-level architecture, LLM infrastructure, and creative technology. I bridge the gap between complex AI models and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+* **Languages:** Python, C, Java
+* **Web Development:** React, Node.js, MongoDB, Vercel
+* **AI & Cloud:** Gen-AI, Prompt Engineering, Cloud Computing, MediaPipe, OpenCV
+* **Tools:** Cursor AI, VS Code, Git, Postman
+
+---
+
+## 🏆 Featured Projects
+* **Sol-Ark:** Space weather prediction platform (Grand Finalist, Hyperspace Innovation Hackathon 2026).
+* **SmartClaim:** AI-enabled parametric insurance prototype for the gig economy.
+* **AI Virtual Mouse:** Vision-based cursor control system.
+
+---
+
+## 🎖 Certifications
+* Oracle Fusion AI Agent Studio Certified Foundations Associate
+
+---
+
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio/Email](mailto:your.email@example.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhars-hub&show_icons=true&theme=radical)
